@@ -20,7 +20,7 @@
             <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
 
-        <Border Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3">
+        <Border Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" BorderBrush="Black" BorderThickness="3">
             <Viewbox>
                 <TextBlock x:Name="resTextBlock"></TextBlock>
             </Viewbox>
