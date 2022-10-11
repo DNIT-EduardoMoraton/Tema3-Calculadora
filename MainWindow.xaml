@@ -46,7 +46,7 @@
                 </TextBlock>
             </Viewbox>
         </Button>
-        <Button Grid.Column="0" Grid.Row="4" Grid.ColumnSpan="3" Margin="5,5,10,5" Tag="0" Click="numberButton_Click" FontSize="20">
+        <Button Grid.Column="0" Grid.Row="4" Grid.ColumnSpan="3" Margin="5,5,5,10" Tag="0" Click="numberButton_Click" FontSize="20">
             0
         </Button>
         <Button Grid.Column="1" Grid.Row="1" Margin="5" Tag="2" Click="numberButton_Click">
